@@ -21,7 +21,7 @@ DJI; XILINX; NVIADA
 # DATASET
 The contest dataset is provided from DJI, captured by unmanned aerial vehicles(UAV).
 This dataset contains12  classes  of  images  and  95  sub-categories.  For  each  sub-category,  70%  of  the  images  are  provided  for  training  and30%  are  reserved  for  evaluation.
-in  this  dataset,  most  of  the  images  have a object size _1-2%_ of the captured images (640x360), which is a main character of UAV-view images(ILSVRC with average object ratio 17%, PASCAL VOC with average object ratio 20%,). 
+in  this  dataset,  most  of  the  images  have a object size __1-2%__ of the captured images (640x360), which is a main character of UAV-view images(ILSVRC with average object ratio 17%, PASCAL VOC with average object ratio 20%,). 
 
 # FPGA WINNERS
 ***
