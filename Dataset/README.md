@@ -1,18 +1,4 @@
-All images are labeled by human. The bounding box is adopted in this dataset to mark the target. Each image is attached a XML file and the following information can be found in the XML file:
-<annotation>  
-   <filename>000001</filename>  
-   <size>  
-      <width>640</width>  
-      <height>360</height>  
-   </size>  
-   <object>  
-      <name>boat1</name>  
-      <bndbox>  
-         <xmax>273</xmax>  
-         <xmin>196</xmin>  
-         <ymax>323</ymax>  
-         <ymin>164</ymin>  
-      </bndbox>  
-   </object>  
-</annotation>  
+All images are frames of the video stream from UAV and labeled by human. The bounding box is adopted in this dataset to mark the target. Each image is attached a XML file to record its information.
+
+Other than object detection, this dataset can also be used for object classification and object tracking.
 
