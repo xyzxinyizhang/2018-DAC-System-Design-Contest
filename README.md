@@ -21,7 +21,7 @@ DJI; XILINX; NVIADA
 # FPGA WINNERS
 ***
 #### First Place
-TGIIF - Tsinghua University
+[TGIIF](http://blog.csdn.net/guodongxiaren "悬停显示") - Tsinghua University
 Shulin Zeng, Weicong Chen, Tianhao Huang, Yujun Lin, Weizhe Meng, Zhenhua Zhu, Yu Wang
 ***
 #### Second Place
