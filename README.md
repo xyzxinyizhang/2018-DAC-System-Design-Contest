@@ -18,6 +18,11 @@ Bei Yu, Publicity
 Chinese University of Hong Kong
 # SPONSOR
 DJI; XILINX; NVIADA
+# DATASET
+The contest dataset is provided from DJI, captured by unmanned aerial vehicles(UAV).
+This dataset contains12  classes  of  images  and  95  sub-categories.  For  each  sub-category,  70%  of  the  images  are  provided  for  training  and30%  are  reserved  for  evaluation.
+in  this  dataset,  most  of  the  images  have a object size 1-2% of the captured images (640x360), which is a main character of UAV-view images(ILSVRC with average object ratio 17%, PASCAL VOC with average object ratio 20%,). 
+
 # FPGA WINNERS
 ***
 #### First Place
@@ -36,7 +41,7 @@ The detailed ranking can be found [here](http://www.cse.cuhk.edu.hk/~byu/2018-DA
 # GPU WINNERS
 ***
 #### First Place
-[ICT-Jeejio](https://github.com/lvhao7896/DAC2018 "悬停显示") - Institute of Computing Technology, Chinese Academy of Science   
+[ICT-CAS](https://github.com/lvhao7896/DAC2018 "悬停显示") - Institute of Computing Technology, Chinese Academy of Science   
 Hao Lu, Xuyi Cai, Xiandong Zhao, Ying Wang
 ***
 #### Second Place
