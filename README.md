@@ -23,7 +23,8 @@ The contest dataset is provided from DJI, captured by unmanned aerial vehicles(U
 This dataset contains12  classes  of  images  and  95  sub-categories.  For  each  sub-category,  70%  of  the  images  are  provided  for  training  and30%  are  reserved  for  evaluation.
 in  this  dataset,  most  of  the  images  have a object size __1-2%__ of the captured images (640x360), which is a main character of UAV-view images(ILSVRC with average object ratio 17%, PASCAL VOC with average object ratio 20%,). 
 
-The dataset can be download [here](https://pitt.box.com/s/756141768nn92cj0dkfbg6dan17c4h4q "悬停显示").
+The 70% dataset is open source and can be download [here](https://pitt.box.com/s/756141768nn92cj0dkfbg6dan17c4h4q "悬停显示").
+A sample dataset can be download [here](https://pitt.box.com/s/cq6edt2zm99s1zwa37u56gctpk1qtgpa "悬停显示").
 
 # FPGA WINNERS
 ***
