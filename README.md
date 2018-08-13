@@ -51,7 +51,8 @@ Hao Lu, Xuyi Cai, Xiandong Zhao, Ying Wang
 [DeepZ](https://github.com/jndeng/DACSDC-DeepZ "悬停显示") - Zhejiang University  
 Jianing Deng, Cheng Zhuo
 ***
-The detailed ranking can be found [here](http://www.cse.cuhk.edu.hk/~byu/2018-DAC-HDC/ranking.html#may "悬停显示")
 #### Third Place
 [SDU-Legend](https://github.com/xiaoyuuuuu/dac-hdc-2018-object-detection-in-Jetson-TX2 "悬停显示") - Shandong University  
 Chuanqi Zang, Jie Liu, Yueming Hao, Shiqing Li, Miao Yu, Yanbo Zhao, Mingyi Li, Pengfei Xue, Xiaoyu Qin, Lei Ju, Xin Li, Mengying Zhao, Hongjun Dai
+***
+The detailed ranking can be found [here](http://www.cse.cuhk.edu.hk/~byu/2018-DAC-HDC/ranking.html#may "悬停显示")
