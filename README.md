@@ -17,11 +17,4 @@ DJI
 Bei Yu, Publicity
 Chinese University of Hong Kong
 # SPONSOR
-```json
-   DJI
-```
-```html
-   XILINX
-```
-```js
-   NVIADA
+DJI; XILINX; NVIADA
