@@ -18,3 +18,29 @@ Bei Yu, Publicity
 Chinese University of Hong Kong
 # SPONSOR
 DJI; XILINX; NVIADA
+# FPGA WINNERS
+***、
+First Place
+TGIIF - Tsinghua University
+Shulin Zeng, Weicong Chen, Tianhao Huang, Yujun Lin, Weizhe Meng, Zhenhua Zhu, Yu Wang
+***、
+Second Place
+SystemsETHZ - ETH Zurich
+Kaan Kara, Ce Zhang, Gustavo Alonso
+***、
+Third Place
+iSmart2 - University of Illinois at Urbana-Champaign
+Cong Hao, Yuhong Li, Sitao Huang, Xiaofan Zhang, Tianqi Gao, Jinjun Xiong, Kyle Rupnow, Huafeng Yu, Wen-Mei Hwu, Deming Chen
+***、
+# GPU WINNERS
+First Place
+ICT-Jeejio - Institute of Computing Technology, Chinese Academy of Science 
+Hao Lu, Xuyi Cai, Xiandong Zhao, Ying Wang
+***、
+Second Place
+DeepZ - Zhejiang University
+Jianing Deng, Cheng Zhuo
+***、
+Third Place
+SDU-Legend - Shandong University
+Chuanqi Zang, Jie Liu, Yueming Hao, Shiqing Li, Miao Yu, Yanbo Zhao, Mingyi Li, Pengfei Xue, Xiaoyu Qin, Lei Ju, Xin Li, Mengying Zhao, Hongjun Dai
