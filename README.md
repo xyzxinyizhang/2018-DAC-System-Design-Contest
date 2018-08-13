@@ -17,7 +17,7 @@ DJI
 Bei Yu, Publicity
 Chinese University of Hong Kong
 # SPONSOR
-DJI; XILINX; NVIADA
+DJI; XILINX; NVIDIA
 # DATASET
 The contest dataset is provided from DJI, captured by unmanned aerial vehicles(UAV).
 This dataset contains12  classes  of  images  and  95  sub-categories.  For  each  sub-category,  70%  of  the  images  are  provided  for  training  and30%  are  reserved  for  evaluation.
