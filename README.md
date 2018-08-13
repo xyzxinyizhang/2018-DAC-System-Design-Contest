@@ -17,6 +17,11 @@ DJI
 Bei Yu, Publicity
 Chinese University of Hong Kong
 # SPONSOR
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `XILINX`
 ```json
+   DJI
+```
+```html
+   XILINX
+```
+```js
    NVIADA
