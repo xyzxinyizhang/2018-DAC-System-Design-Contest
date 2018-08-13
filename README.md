@@ -21,27 +21,27 @@ DJI; XILINX; NVIADA
 # FPGA WINNERS
 ***
 #### First Place
-[TGIIF](https://github.com/hirayaku/DAC2018-TGIIF "悬停显示") - Tsinghua University
+[TGIIF](https://github.com/hirayaku/DAC2018-TGIIF "悬停显示") - Tsinghua University  
 Shulin Zeng, Weicong Chen, Tianhao Huang, Yujun Lin, Weizhe Meng, Zhenhua Zhu, Yu Wang
 ***
 #### Second Place
-[systemsETHZ](https://github.com/fpgasystems/spooNN "悬停显示") - ETH Zurich
+[systemsETHZ](https://github.com/fpgasystems/spooNN "悬停显示") - ETH Zurich  
 Kaan Kara, Ce Zhang, Gustavo Alonso
 ***
 #### Third Place
-[iSmart2](https://github.com/hirayaku/DAC2018-TGIIF "悬停显示") - University of Illinois at Urbana-Champaign
+[iSmart2](https://github.com/hirayaku/DAC2018-TGIIF "悬停显示") - University of Illinois at Urbana-Champaign  
 Cong Hao, Yuhong Li, Sitao Huang, Xiaofan Zhang, Tianqi Gao, Jinjun Xiong, Kyle Rupnow, Huafeng Yu, Wen-Mei Hwu, Deming Chen
 ***
 # GPU WINNERS
 ***
 #### First Place
-[ICT-Jeejio](https://github.com/lvhao7896/DAC2018 "悬停显示") - Institute of Computing Technology, Chinese Academy of Science 
+[ICT-Jeejio](https://github.com/lvhao7896/DAC2018 "悬停显示") - Institute of Computing Technology, Chinese Academy of Science   
 Hao Lu, Xuyi Cai, Xiandong Zhao, Ying Wang
 ***
 #### Second Place
-[DeepZ](https://github.com/jndeng/DACSDC-DeepZ "悬停显示") - Zhejiang University
+[DeepZ](https://github.com/jndeng/DACSDC-DeepZ "悬停显示") - Zhejiang University  
 Jianing Deng, Cheng Zhuo
 ***
 #### Third Place
-[SDU-Legend](https://github.com/xiaoyuuuuu/dac-hdc-2018-object-detection-in-Jetson-TX2 "悬停显示") - Shandong University
+[SDU-Legend](https://github.com/xiaoyuuuuu/dac-hdc-2018-object-detection-in-Jetson-TX2 "悬停显示") - Shandong University  
 Chuanqi Zang, Jie Liu, Yueming Hao, Shiqing Li, Miao Yu, Yanbo Zhao, Mingyi Li, Pengfei Xue, Xiaoyu Qin, Lei Ju, Xin Li, Mengying Zhao, Hongjun Dai
