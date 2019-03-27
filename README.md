@@ -37,7 +37,7 @@ Shulin Zeng, Weicong Chen, Tianhao Huang, Yujun Lin, Weizhe Meng, Zhenhua Zhu, Y
 Kaan Kara, Ce Zhang, Gustavo Alonso
 ***
 #### Third Place
-[iSmart2](https://github.com/hirayaku/DAC2018-TGIIF "悬停显示") - University of Illinois at Urbana-Champaign  
+[iSmart2](https://github.com/onioncc/iSmartDNN "悬停显示") - University of Illinois at Urbana-Champaign  
 Cong Hao, Yuhong Li, Sitao Huang, Xiaofan Zhang, Tianqi Gao, Jinjun Xiong, Kyle Rupnow, Huafeng Yu, Wen-Mei Hwu, Deming Chen
 ***
 The detailed ranking can be found [here](http://www.cse.cuhk.edu.hk/~byu/2018-DAC-HDC/ranking.html#may "悬停显示")
