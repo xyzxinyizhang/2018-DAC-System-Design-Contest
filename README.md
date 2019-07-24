@@ -26,7 +26,7 @@ in  this  dataset,  most  of  the  images  have a object size __1-2%__ of the ca
 The 70% dataset is open source and can be download [here](https://pitt.box.com/s/756141768nn92cj0dkfbg6dan17c4h4q "悬停显示").
 A sample dataset can be download [here](https://pitt.box.com/s/cq6edt2zm99s1zwa37u56gctpk1qtgpa "悬停显示").
 
-# FPGA WINNERS
+# FPGA WINNERS (PYNQ-Z1)
 ***
 #### First Place
 [TGIIF](https://github.com/hirayaku/DAC2018-TGIIF "悬停显示") - Tsinghua University  
@@ -41,7 +41,7 @@ Kaan Kara, Ce Zhang, Gustavo Alonso
 Cong Hao, Yuhong Li, Sitao Huang, Xiaofan Zhang, Tianqi Gao, Jinjun Xiong, Kyle Rupnow, Huafeng Yu, Wen-Mei Hwu, Deming Chen
 ***
 The detailed ranking can be found [here](http://www.cse.cuhk.edu.hk/~byu/2018-DAC-HDC/ranking.html#may "悬停显示")
-# GPU WINNERS
+# GPU WINNERS (TX-2)
 ***
 #### First Place
 [ICT-CAS](https://github.com/lvhao7896/DAC2018 "悬停显示") - Institute of Computing Technology, Chinese Academy of Science   
